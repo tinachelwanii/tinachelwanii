@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tina Chelwani 💻 A Full Stack web developer (MERN) 💻 Who loves to make interactive and responsive websites</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinachelwanii&label=Profile%20views&color=0e75b6&style=flat" alt="tinachelwanii" /> </p>
+<h1 align="center">Hi 👋, I'm Tina Chelwani </h1>
+<h3 align="center">A passionate full stack web developer(MERN) from India 💻 Who loves to make interactive and responsive websites</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinachelwanii" alt="tinachelwanii" /></a> </p>
 
