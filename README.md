@@ -3,7 +3,8 @@
   Who loves to make interactive and responsive websites</h1>
   
 <h3 align="center">A passionate full stack web developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw04Rizkq5etNRXKLquasrQY&ust=1704299446964000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDTxKuQv4MDFQAAAAAdAAAAABAD"
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinachelwanii" alt="tinachelwanii" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
