@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinachelwanii&show_icons=true&locale=en" alt="tinachelwanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinachelwanii&" alt="tinachelwanii" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/chelwanit25?theme=dark&font=Capriola&ext=contest)
