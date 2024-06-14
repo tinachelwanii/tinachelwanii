@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tina Chelwani </h1>
-<h3 align="center">💻 A passionate full stack web developer (MERN) from India who loves to make interactive and responsive websites </h3>
+<h1 align="center">Hi Folks, Tina here! </h1>
+<h3 align="center">💻 I am a Computer Science student, and a Web developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinachelwanii" alt="tinachelwanii" /></a> </p>
 
