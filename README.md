@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tina Chelwani</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+<h3 align="center">A passionate full stack web developer from India. </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -13,7 +13,7 @@
 ### 🙋‍♂️ About Me
 - 👩‍🎓 I'm an engineering student at **Vellore Institute of Technology Bhopal studying Computer Science**
 
-- 🔭 I’m looking to contribute to **Open Source**
+- 🔭 I am currently exploring **Data Structures and Algorithms**
 
 - 🌱 I’m currently exploring **Machine learning**
 
@@ -34,8 +34,8 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tinachelwanii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=tinachelwanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=tinachelwanii&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tinachelwanii&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinachelwanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
