@@ -15,7 +15,7 @@
 
 - 🔭 I am currently exploring **Data Structures and Algorithms**
 
-- 🌱 I’m currently exploring **Machine learning**
+- 🌱 **Fun fact about me:** In my free time, I like to solve Rubik's Cube and cook pasta.
 
 - 👨‍💻 Know me more <a href="https://tina-chelwani-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
