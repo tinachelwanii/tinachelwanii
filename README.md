@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I am Tina Chelwani! </h1>
-<h3 align="center">A passionate Full stack web developer from India.</h3>
+<div align="center" >
+  <img width="400" src="giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"alt="coding"
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinachelwanii" alt="tinachelwanii" /></a> </p>
 
