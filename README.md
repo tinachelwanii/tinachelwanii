@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **Vellore Institute of Technology Bhopal studying Computer Science**
+- 👩‍🎓 I'm an engineering student at **Vellore Institute of Technology Bhopal studying Computer Science**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
@@ -34,9 +34,9 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiGoyat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tinachelwanii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tinachelwanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinachelwanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -53,7 +53,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/tina-chelwani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_tinaa25_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://leetcode.com/tina25chelwani/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
-  <a href = "https://auth.geeksforgeeks.org/user/sakshigoyat14"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
 
 </p>
