@@ -11,11 +11,11 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm an engineering student at **Vellore Institute of Technology Bhopal studying Computer Science**
+- 👩‍🎓 I'm an undergraduate student pursuing a B.Tech branch CSE from Vellore Institute of Technology(VIT).
 
 - 🔭 I am currently exploring **Data Structures and Algorithms**
 
-- 🌱 **Fun fact about me:** In my free time, I like to solve Rubik's Cube and cook pasta.
+- 🌱 **Fun fact about me:** In my free time, I like to solve Rubik's Cube.
 
 - 👨‍💻 Know me more <a href="https://tina-chelwani-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
