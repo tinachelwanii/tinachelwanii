@@ -58,5 +58,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/tina-chelwani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_tinaa25_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://mail.google.com/tinaa25092003@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/mail"/></a>
 </p>
