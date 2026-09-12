@@ -18,7 +18,6 @@
 
 - 🌱 **Fun fact about me:** In my free time, I like to solve Rubik's Cube.
 
-- 👨‍💻 Know me more <a href="https://tina-chelwani-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=tinaa25092003@gmail.com" style="text-decoration: none;">Email</a>
 
